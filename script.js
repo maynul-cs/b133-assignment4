@@ -6,7 +6,9 @@ const jobData = [
     { id: 5, companyName: "DataCore", position: "Data Analyst", location: "Remote", type: "Part-time", salary: "$25k - $35k", description: "Analyze user behavior and business metrics.", status: "all" },
     { id: 6, companyName: "SecurityX", position: "Cyber Security", location: "Dhaka, BD", type: "Full-time", salary: "$60k - $80k", description: "Protecting enterprise data from threats.", status: "all" },
     { id: 7, companyName: "GreenOps", position: "DevOps Engineer", location: "Hybrid", type: "Full-time", salary: "$55k - $75k", description: "Managing AWS infrastructure and CI/CD.", status: "all" },
-    { id: 8, companyName: "CreativeLab", position: "Content Writer", location: "Remote", type: "Freelance", salary: "$15k - $25k", description: "Technical writing for developer tools.", status: "all" }
+    { id: 8, companyName: "CreativeLab", position: "Content Writer", location: "Remote", type: "Freelance", salary: "$15k - $25k", description: "Technical writing for developer tools.", status: "all" },
+    { id: 9, companyName: "WebMatrix", position: "React Developer", location: "Rajshahi, BD", type: "Full-time", salary: "$40k - $55k", description: "Focus on state management...", status: "all" },
+    { id: 10, companyName: "PixelPerfect", position: "QA Engineer", location: "Remote", type: "Contract", salary: "$35k - $45k", description: "Automated testing...", status: "all" }
 ];
 
 let currentTab = 'all';
